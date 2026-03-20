@@ -28,10 +28,3 @@ b = "10"
 
 num1 = a[::-1]
 num2 = b[::-1]
-
-for i in num1:
-    for j in num2:
-        if i == "0":
-            
-
-
